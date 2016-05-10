@@ -1,0 +1,8 @@
+D:\C#Projects\YBAlert\YBAlert\bin\Release\YBAlert.exe.config
+D:\C#Projects\YBAlert\YBAlert\bin\Release\YBAlert.exe
+D:\C#Projects\YBAlert\YBAlert\bin\Release\YBAlert.pdb
+D:\C#Projects\YBAlert\YBAlert\obj\Release\YBAlert.Form1.resources
+D:\C#Projects\YBAlert\YBAlert\obj\Release\YBAlert.Properties.Resources.resources
+D:\C#Projects\YBAlert\YBAlert\obj\Release\YBAlert.csproj.GenerateResource.Cache
+D:\C#Projects\YBAlert\YBAlert\obj\Release\YBAlert.exe
+D:\C#Projects\YBAlert\YBAlert\obj\Release\YBAlert.pdb

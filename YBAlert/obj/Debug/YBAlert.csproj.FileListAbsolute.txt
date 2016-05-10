@@ -1,0 +1,9 @@
+D:\C#Projects\YBAlert\YBAlert\bin\Debug\YBAlert.exe.config
+D:\C#Projects\YBAlert\YBAlert\bin\Debug\YBAlert.exe
+D:\C#Projects\YBAlert\YBAlert\bin\Debug\YBAlert.pdb
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.csprojResolveAssemblyReference.cache
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.Form1.resources
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.Properties.Resources.resources
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.csproj.GenerateResource.Cache
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.exe
+D:\C#Projects\YBAlert\YBAlert\obj\Debug\YBAlert.pdb
